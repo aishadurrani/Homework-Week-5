@@ -1,0 +1,55 @@
+
+body {
+	background-image: url("../images/nyc1.jpg");
+	background-size: 1450px;
+	padding-bottom: 200px;
+	
+
+}
+
+#quiz {
+	float: left;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-right: 100px;
+	border-spacing: 100px;
+	font-size: 25px;
+}
+
+
+
+h1 {
+	color: black;
+	text-align: left;
+
+}
+
+#next {
+	float: left;
+	margin-top: 250px;
+	font: black;
+	
+}
+
+#prev {
+	float: left;
+	margin-top: 250px;
+	font: black;
+	
+}
+
+#start {
+	float: left;
+	margin-top: 250px;
+	font: black;
+
+}
+
+footer {
+	text-align: left;
+	font-weight: bold;
+	padding-top: 625px;
+	color: black;
+}
